@@ -8,3 +8,5 @@ Step 2: Download the Setup and create folder and put the Setup.exe in the folder
 Step 3: The Setup is asking you to get the Roblox Versions folder. DO NOT CHOOSE UR CURRENT ROBLOX VERSION. It should be C:\Whatever is behind this\Roblox\Versions.
 
 Step 4: You can exit out of the setup.exe.
+
+Step 5: If the Config.txt isn't in the same folder as the ClientSettingsManager folder, then you must move it in there.
