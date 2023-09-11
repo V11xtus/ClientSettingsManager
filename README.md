@@ -9,3 +9,9 @@ Step 2: The Setup is asking you to get the Roblox Versions folder. DO NOT CHOOSE
 
 Step 3: You can exit out of the setup.exe.
 
+Step 4: Run ClientSettingsManagerV1.exe as Administrator.
+
+Step 5: Select the most up to date folder. (Basically the folder that has RobloxPlayerBeta.exe and all the exe's)
+
+Step 6: Select the Settings you want. and finally press run. 
+
